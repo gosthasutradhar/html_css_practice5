@@ -35,7 +35,7 @@ th{
 }
 address{
 	    background-color: greenyellow;
-    width: 200px;
+    width: 15%;
     height: 100px;
     display: inline-block;
     text-align: center;
@@ -44,7 +44,7 @@ address{
    }
 article{
 	    background-color: greenyellow;
-    width: 200px;
+    width: 15%;
     height: 100px;
     display: inline-block;
     text-align: center;
@@ -54,7 +54,7 @@ article{
 }
 canvas{
 	background-color: greenyellow;
-    width: 200px;
+    width: 15%;
     height: 100px;
     display: inline-block;
     text-align: center;
@@ -64,7 +64,7 @@ canvas{
 }
 dl{
 	background-color: greenyellow;
-    width: 200px;
+    width: 15%;
     height: 100px;
     display: inline-block;
     text-align: center;
@@ -74,7 +74,7 @@ dl{
 }
 form{
 	background-color: greenyellow;
-    width: 450px;
+    width: 34%;
     height: 100px;
     display: inline-block;
     margin-top: 20px;
@@ -110,7 +110,5 @@ nav ul li a{
 	font-size: 17px;
 	text-transform: uppercase;
 	text-decoration: none;
-	padding: 10px
-	
-	
+	padding: 10px;
 }
